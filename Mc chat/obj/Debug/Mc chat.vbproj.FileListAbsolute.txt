@@ -1,0 +1,24 @@
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\bin\Debug\Mc chat.exe.config
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\bin\Debug\Mc chat.exe
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\bin\Debug\Mc chat.pdb
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\bin\Debug\Mc chat.xml
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc chat.vbprojResolveAssemblyReference.cache
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc_chat.Form1.resources
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc_chat.LoginForm.resources
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc_chat.Resources.resources
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc chat.vbproj.GenerateResource.Cache
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc chat.exe
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc chat.xml
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Debug\Mc chat.pdb
+D:\Mc chat\Mc chat\bin\Debug\Mc chat.exe.config
+D:\Mc chat\Mc chat\bin\Debug\Mc chat.exe
+D:\Mc chat\Mc chat\bin\Debug\Mc chat.pdb
+D:\Mc chat\Mc chat\bin\Debug\Mc chat.xml
+D:\Mc chat\Mc chat\obj\Debug\Mc_chat.Form1.resources
+D:\Mc chat\Mc chat\obj\Debug\Mc_chat.LoginForm.resources
+D:\Mc chat\Mc chat\obj\Debug\Mc_chat.Resources.resources
+D:\Mc chat\Mc chat\obj\Debug\Mc chat.vbproj.GenerateResource.Cache
+D:\Mc chat\Mc chat\obj\Debug\Mc chat.exe
+D:\Mc chat\Mc chat\obj\Debug\Mc chat.xml
+D:\Mc chat\Mc chat\obj\Debug\Mc chat.pdb
+D:\Mc chat\Mc chat\obj\Debug\Mc chat.vbprojResolveAssemblyReference.cache

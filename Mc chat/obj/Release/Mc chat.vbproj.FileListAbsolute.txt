@@ -1,0 +1,9 @@
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Release\Mc_chat.Form1.resources
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Release\Mc_chat.LoginForm.resources
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Release\Mc_chat.Resources.resources
+C:\Users\Stavros\documents\visual studio 2017\Projects\Mc chat\Mc chat\obj\Release\Mc chat.vbproj.GenerateResource.Cache
+D:\Mc chat\Mc chat\obj\Release\Mc chat.vbprojResolveAssemblyReference.cache
+D:\Mc chat\Mc chat\obj\Release\Mc_chat.Form1.resources
+D:\Mc chat\Mc chat\obj\Release\Mc_chat.LoginForm.resources
+D:\Mc chat\Mc chat\obj\Release\Mc_chat.Resources.resources
+D:\Mc chat\Mc chat\obj\Release\Mc chat.vbproj.GenerateResource.Cache

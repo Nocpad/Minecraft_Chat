@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mc chat
+</name>
+</assembly>
+<members>
+<member name="T:Mc_chat.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Mc_chat.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Mc_chat.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Mc_chat.My.Resources.Resources._20d06589bd5ab81a73989bdac8ca59ecd4d66932">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Mc_chat.My.Resources.Resources.InternalCommands">
+<summary>
+  Looks up a localized string similar to #internal commands. 1=Enabled / 0=Disabled
+!help:#Display all the commands
+!reconnect :0#Stop the connection &amp; reconnect
+!autorelog:0#Relog on connection lost
+!antiafk:0#Send /ping every 5min
+!math:0#Solve math quiz(mineheroes format only(ex: 2-2+2)
+!type:0#Type to win (mineheroes only)
+!quit:#
+!clearchat:#
+!alerts:0#Enable/Disable the alerts.
+</summary>
+</member>
+</members>
+</doc>

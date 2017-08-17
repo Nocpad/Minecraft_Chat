@@ -1,0 +1,9 @@
+!help
+!reconnect
+!autorelog
+!antiafk
+!math
+!type
+!quit
+!clearchat
+!alerts
